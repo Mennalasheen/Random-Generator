@@ -1,0 +1,21 @@
+C:\Users\marin\Downloads\Modeling Task 4\Modeling Task 4\bin\Debug\Modeling Task 4.exe.config
+C:\Users\marin\Downloads\Modeling Task 4\Modeling Task 4\bin\Debug\Modeling Task 4.exe
+C:\Users\marin\Downloads\Modeling Task 4\Modeling Task 4\bin\Debug\Modeling Task 4.pdb
+C:\Users\marin\Downloads\Modeling Task 4\Modeling Task 4\obj\Debug\Modeling Task 4.csproj.AssemblyReference.cache
+C:\Users\marin\Downloads\Modeling Task 4\Modeling Task 4\obj\Debug\Modeling_Task_4.Form1.resources
+C:\Users\marin\Downloads\Modeling Task 4\Modeling Task 4\obj\Debug\Modeling_Task_4.Properties.Resources.resources
+C:\Users\marin\Downloads\Modeling Task 4\Modeling Task 4\obj\Debug\Modeling Task 4.csproj.GenerateResource.cache
+C:\Users\marin\Downloads\Modeling Task 4\Modeling Task 4\obj\Debug\Modeling Task 4.csproj.CoreCompileInputs.cache
+C:\Users\marin\Downloads\Modeling Task 4\Modeling Task 4\obj\Debug\Modeling Task 4.exe
+C:\Users\marin\Downloads\Modeling Task 4\Modeling Task 4\obj\Debug\Modeling Task 4.pdb
+C:\Users\PC\Downloads\Modeling Task 4\Modeling Task 4\Modeling Task 4\bin\Debug\Modeling Task 4.exe.config
+C:\Users\PC\Downloads\Modeling Task 4\Modeling Task 4\Modeling Task 4\bin\Debug\Modeling Task 4.exe
+C:\Users\PC\Downloads\Modeling Task 4\Modeling Task 4\Modeling Task 4\bin\Debug\Modeling Task 4.pdb
+C:\Users\PC\Downloads\Modeling Task 4\Modeling Task 4\Modeling Task 4\obj\Debug\Modeling Task 4.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\Modeling Task 4\Modeling Task 4\Modeling Task 4\obj\Debug\Modeling Task 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Downloads\Modeling Task 4\Modeling Task 4\Modeling Task 4\obj\Debug\Modeling_Task_4.Form1.resources
+C:\Users\PC\Downloads\Modeling Task 4\Modeling Task 4\Modeling Task 4\obj\Debug\Modeling_Task_4.Properties.Resources.resources
+C:\Users\PC\Downloads\Modeling Task 4\Modeling Task 4\Modeling Task 4\obj\Debug\Modeling Task 4.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\Modeling Task 4\Modeling Task 4\Modeling Task 4\obj\Debug\Modeling Task 4.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Modeling Task 4\Modeling Task 4\Modeling Task 4\obj\Debug\Modeling Task 4.exe
+C:\Users\PC\Downloads\Modeling Task 4\Modeling Task 4\Modeling Task 4\obj\Debug\Modeling Task 4.pdb
